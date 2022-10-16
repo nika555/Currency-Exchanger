@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="my_balances">My Balances</string>
+    <string name="currency_exchange">Currency Exchanges</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="search_rate">Search Rate</string>
+    <string name="rates">Rates</string>
+    <string name="choose">Choose</string>
+    <string name="please_select_currency">Please Choose Currency</string>
+    <string name="incorrect_request">Incorrect Request</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="done">Done</string>
+    <string name="there_is_not_enough_money_in_the_account">There is not enough money in the account</string>
+    <string name="you_have_converted"> You have converted</string>
+    <string name="commission_fee">Commission Fee</string>
+    <string name="to">to</string>
+</resources>
+
